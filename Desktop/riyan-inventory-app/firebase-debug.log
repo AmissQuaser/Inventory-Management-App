@@ -1,0 +1,29 @@
+[debug] [2024-08-16T01:23:37.581Z] ----------------------------------------------------------------------
+[debug] [2024-08-16T01:23:37.586Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2024-08-16T01:23:37.586Z] CLI Version:   13.15.2
+[debug] [2024-08-16T01:23:37.587Z] Platform:      darwin
+[debug] [2024-08-16T01:23:37.587Z] Node Version:  v20.16.0
+[debug] [2024-08-16T01:23:37.587Z] Time:          Thu Aug 15 2024 18:23:37 GMT-0700 (Pacific Daylight Time)
+[debug] [2024-08-16T01:23:37.587Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-08-16T01:23:37.598Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-08-16T01:23:37.598Z] > authorizing via signed-in user (rpasha.business@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/riyan/Desktop/riyan-inventory-app
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
